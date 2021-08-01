@@ -33,7 +33,7 @@ sections:
           - Sonstiges
         is_required: true
       - input_type: text
-        name: Telefonnummer
+        name: telephone
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
