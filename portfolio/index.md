@@ -1,9 +1,9 @@
 ---
-title: Referenzen
-subtitle: 
+title: Portfolio
+subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
-  title: Referenzen
+  title: Portfolio
   description: This is the portfolio page
   extra:
     - name: 'og:type'
