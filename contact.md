@@ -35,7 +35,7 @@ sections:
       - input_type: tel
         name: telephone
         label: Telefonnummer
-        default_value: lorem-ipsum
+        default_value: Ihre Telefonnummer
         options: []
         is_required: false
         type: form_field
