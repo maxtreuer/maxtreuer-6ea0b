@@ -31,6 +31,7 @@ sections:
           - Angebot
           - Anfrage
           - Sonstiges
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
