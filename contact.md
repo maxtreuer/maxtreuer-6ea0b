@@ -32,7 +32,7 @@ sections:
           - Anfrage
           - Sonstiges
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: telephone
         label: lorem-ipsum
         default_value: lorem-ipsum
