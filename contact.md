@@ -29,7 +29,7 @@ sections:
         default_value: Please select
         options:
           - Angebot
-          - Sponsorship
+          - Anfrage
           - Other
       - input_type: textarea
         name: message
