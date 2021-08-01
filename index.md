@@ -68,7 +68,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Max Truer
-  description: The preview of the Exto theme
+  description: Immobilienankauf
   extra:
     - name: 'og:type'
       value: website
