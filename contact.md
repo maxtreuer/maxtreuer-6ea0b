@@ -23,6 +23,13 @@ sections:
         label: Email
         default_value: Ihre EMail Adresse
         is_required: true
+      - input_type: tel
+        name: telephone
+        label: Telefonnummer
+        default_value: Ihre Telefonnummer
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: subject
         label: Betreff
@@ -32,13 +39,6 @@ sections:
           - Anfrage
           - Sonstiges
         is_required: true
-      - input_type: tel
-        name: telephone
-        label: Telefonnummer
-        default_value: Ihre Telefonnummer
-        options: []
-        is_required: false
-        type: form_field
       - input_type: textarea
         name: message
         label: Nachricht
