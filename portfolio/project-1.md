@@ -3,7 +3,7 @@ title: Neugasse
 date: '2019-01-29'
 thumb_image: images/neugasse.jpg
 thumb_image_alt: Riedstadt Neugasse
-image: images/1.jpg
+image: images/friendly-basil.jpg
 seo:
   title: Project Title 1
   description: This is the project 1 description
