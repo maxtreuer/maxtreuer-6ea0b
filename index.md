@@ -9,8 +9,7 @@ sections:
       Sie verkaufen oder vermitteln Immobilien?
       Ich freue mich auf Ihr Angebot.
     actions:
-      - label: Let's talk
-        url: /contact
+      - url: /contact
         style: button
   - section_id: latest-projects
     type: section_portfolio
