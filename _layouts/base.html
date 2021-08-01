@@ -41,5 +41,8 @@
         <script src="{{ 'js/page-load.js' | relative_url }}"></script>
 
         {% include cookie-consent.html %}
+        if(readCookie('cookie-notice-dismissed')=='true') {
+            
+        }
     </body> 
 </html>
