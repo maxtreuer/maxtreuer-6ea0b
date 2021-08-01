@@ -26,7 +26,7 @@ sections:
       - input_type: select
         name: subject
         label: Betreff
-        default_value: Please select
+        default_value: Bitte auswählen
         options:
           - Angebot
           - Anfrage
