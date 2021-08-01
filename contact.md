@@ -21,7 +21,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Ihre EMail Adresse
+        default_value: Ihre Email Adresse
         is_required: true
       - input_type: tel
         name: telephone
