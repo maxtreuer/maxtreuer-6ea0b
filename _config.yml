@@ -3,7 +3,6 @@ baseurl: /
 permalink: '/:title/'
 plugins:
   - jekyll-menus
-  - jekyll-analytics
 collections:
   posts:
     permalink: '/posts/:title/'
