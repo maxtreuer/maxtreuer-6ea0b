@@ -39,5 +39,7 @@
         {{ content }}
         <script src="{{ 'js/init.js' | relative_url }}"></script>
         <script src="{{ 'js/page-load.js' | relative_url }}"></script>
+
+        {% include cookie-consent.html %}
     </body> 
 </html>
