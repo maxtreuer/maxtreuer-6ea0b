@@ -37,12 +37,10 @@
     <body class="palette-{{ site.data.config.color_scheme }} accent-{{ site.data.config.accent_color }}">
         
         {{ content }}
+        
+        {% include cookie-consent.html %}
+
         <script src="{{ 'js/init.js' | relative_url }}"></script>
         <script src="{{ 'js/page-load.js' | relative_url }}"></script>
-
-        {% include cookie-consent.html %}
-        if(readCookie('cookie-notice-dismissed')=='true') {
-            
-        }
     </body> 
 </html>
