@@ -28,7 +28,7 @@ sections:
         label: Betreff
         default_value: Please select
         options:
-          - Error on the site
+          - Angebot
           - Sponsorship
           - Other
       - input_type: textarea
