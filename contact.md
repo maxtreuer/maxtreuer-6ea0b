@@ -48,6 +48,7 @@ sections:
         label: >-
           Ich bin damit einverstanden, dass meine übermittelten Daten zu
           Kontaktaufnahme gespeichert werden dürfen.
+        is_required: true
     submit_label: Nachricht versenden
 seo:
   title: Contact
