@@ -38,7 +38,9 @@ sections:
         default_value: Your message
       - input_type: checkbox
         name: consent
-        label: 'Ich bin damit einverstanden, dass meine '
+        label: >-
+          Ich bin damit einverstanden, dass meine übermittelten Daten zu
+          Kontaktaufnahme gepseichert werden düfen
     submit_label: Send Message
 seo:
   title: Contact
