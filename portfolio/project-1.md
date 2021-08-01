@@ -1,7 +1,7 @@
 ---
 title: Neugasse
 subtitle: Optional Project Subtitle
-date: '2019-01-10'
+date: '2019-01-01'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
