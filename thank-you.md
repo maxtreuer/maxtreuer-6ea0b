@@ -6,5 +6,3 @@ layout: page
 ---
 
 Sie erhalten zeitnah eine Rückmeldung!
-
-**Have a great day!**
