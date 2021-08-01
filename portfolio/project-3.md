@@ -1,7 +1,7 @@
 ---
 title: Brunecker Straße
 subtitle: Groß-Gerau
-date: '2021-01-08'
+date: '2021-01-01'
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
