@@ -3,7 +3,7 @@ title: Referenzen
 subtitle: 
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Referenzen
   description: This is the portfolio page
   extra:
     - name: 'og:type'
