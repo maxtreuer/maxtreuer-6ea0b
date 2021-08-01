@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Referenzen
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Alle Anzeigen
     view_all_url: portfolio
   - section_id: services
     type: section_grid
