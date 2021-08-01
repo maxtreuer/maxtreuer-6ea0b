@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Immobilienankauf
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Sie verkaufen oder vermitteln Immobilien?
+      Ich freue mich auf Ihr Angebot.
     actions:
       - label: Let's talk
         url: /contact
