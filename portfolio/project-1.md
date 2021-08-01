@@ -2,7 +2,7 @@
 title: Riedstadt
 date: '2019-01-29'
 thumb_image: images/1_thumb.jpg
-thumb_image_alt: Neugasse
+thumb_image_alt: ReidsNeugasse
 image: images/1.jpg
 seo:
   title: Project Title 1
