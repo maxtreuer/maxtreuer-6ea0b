@@ -4,7 +4,7 @@ subtitle:
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: 
   extra:
     - name: 'og:type'
       value: website
