@@ -1,5 +1,5 @@
 ---
-title: Neugasse
+title: Riedstadt
 date: '2019-01-29'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: Neugasse
