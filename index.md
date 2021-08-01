@@ -11,6 +11,7 @@ sections:
     actions:
       - url: /contact
         style: button
+        label: Zum Angebotspro
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
