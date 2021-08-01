@@ -3,7 +3,7 @@ title: Neugasse
 subtitle: Optional Project Subtitle
 date: '2019-01-29'
 thumb_image: images/1_thumb.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: Neugasse
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
