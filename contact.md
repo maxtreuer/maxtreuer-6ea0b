@@ -40,7 +40,7 @@ sections:
         name: consent
         label: >-
           Ich bin damit einverstanden, dass meine übermittelten Daten zu
-          Kontaktaufnahme gespeichert werden düfen
+          Kontaktaufnahme gespeichert werden dürfen.
     submit_label: Send Message
 seo:
   title: Contact
