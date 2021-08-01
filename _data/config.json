@@ -48,5 +48,6 @@
         ],
         "content": "&copy; Max Treuer"
     },
-    "domain": "https://maxtreuer.netlify.app"
+    "domain": "https://maxtreuer.netlify.app",
+    "favicon": "images/logo.png"
 }
