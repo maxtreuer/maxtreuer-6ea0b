@@ -6,7 +6,7 @@ thumb_image_alt: Riedstadt Neugasse
 image: images/friendly-basil.jpg
 seo:
   title: Neugasse
-  description: This is the project 1 description
+  description: Reidstadt
   extra:
     - name: 'og:type'
       value: website
