@@ -30,7 +30,7 @@ sections:
         options:
           - Angebot
           - Anfrage
-          - Other
+          - Sonstiges
       - input_type: textarea
         name: message
         label: Message
