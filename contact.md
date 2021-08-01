@@ -25,7 +25,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Betreff
         default_value: Please select
         options:
           - Error on the site
