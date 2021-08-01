@@ -1,6 +1,6 @@
 ---
 title: Brunecker Straße
-subtitle: Optional Project Subtitle
+subtitle: Groß-Gerau
 date: '2019-04-08'
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
