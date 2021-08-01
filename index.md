@@ -48,7 +48,6 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Empfehlungen
-    subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
       - author: Sean Salazar
