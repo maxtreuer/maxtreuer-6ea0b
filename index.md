@@ -35,14 +35,7 @@ sections:
           Zustand.
 
 
-          Sie haften nicht - ich kaufe wie gesehen.
-
-
           Sie müssen keinerlei Unterlage bereithalten oder organisieren.
-
-
-          Kein langwieriger und öffentlicher Verkaufsprozess - diskret und
-          schnell.
       - title: Service Title
         content: >
           Ich übernehme das bestehenden Mietverhältnis - ihr Mieter bleibt
