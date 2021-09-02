@@ -31,13 +31,15 @@ sections:
           Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
           Provision.
       - title: Service Title
-        content: >+
-          Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
+        content: >
+          *   Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
           Zustand.
 
 
-          Sie haften nicht - ich kaufe wie gesehen.
+          <!---->
 
+
+          *   Sie haften nicht - ich kaufe wie gesehen.
       - title: Service Title
         content: >
           Ich übernehme das bestehenden Mietverhältnis - ihr Mieter bleibt
