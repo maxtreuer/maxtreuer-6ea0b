@@ -30,11 +30,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Der private Vermieter ist für den Deutschen Wohnungsmarkt unerlässlich. Als Alternative zu Staat, Genossenschaften und Konzernen bietet er Mietern die Möglichkeit auf Augenhöhe zu kommunizieren und individuelle Lebensumstände stärker zu berücksichtigen. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> *„Die Altersvorsorge der Zukunft braucht mehr als eine schöne Webseite“
+> **Jens Jennissen***
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
 
-*Thank You for reading!*
+
+Auch in zinslosen Zeiten muss die private Altersvorsorge zielgerichtet aufgebaut werden. 
+
+Nichts eignet sich hierfür besser als kapitalgedeckte Sachwerte, welche über die Jahre gepflegt und entwickelt werden.
+
+Hiervon bin ich überzeugt und möchte meinen Teil hierzu beitragen.
+
+
+
+*Vielen Dank für das Lesen!*
