@@ -1,7 +1,6 @@
 ---
 title: Max Treuer
 subtitle: Privater Immobilieninvestor
-image: images/Lichtbild.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
