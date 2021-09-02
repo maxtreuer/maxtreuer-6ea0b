@@ -33,6 +33,14 @@ sections:
 
 
           Sie haften nicht - ich kaufe wie gesehen.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Unkompliziert
         content: >
           Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
