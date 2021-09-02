@@ -1,6 +1,6 @@
 ---
 title: Max Treuer
-subtitle: Privater Immobilieninvestor
+subtitle: Unternehmer
 image_alt: A man taking a picture
 seo:
   title: About Us
