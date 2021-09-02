@@ -31,7 +31,7 @@ sections:
           Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
           Provision.
       - title: Unkompliziert
-        content: >+
+        content: >
           Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
           Zustand.
 
@@ -41,6 +41,9 @@ sections:
 
           Sie müssen keinerlei Unterlage bereithalten oder organisieren.
 
+
+          Kein langwieriger und öffentlicher Verkaufsprozess - diskret und
+          schnell.
       - title: Service Title
         content: >
           Ich übernehme das bestehenden Mietverhältnis - ihr Mieter bleibt
