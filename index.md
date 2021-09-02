@@ -30,7 +30,7 @@ sections:
         content: >
           Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
           Provision.
-      - title: Service Title
+      - title: unkompliziert
         content: >
           Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
           Zustand.
