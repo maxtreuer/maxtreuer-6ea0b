@@ -5,6 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: |
+      Max Treuer
+
       Philippsanlage 7, 64560 Riedstadt
 
       maxtreuer@gmail.com
