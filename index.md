@@ -64,7 +64,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Ich kaufe Eigentumswohnungen
-  description: Immobilienankauf
+  description: Immobilienankauf von Eigentumswohnungen i
   extra:
     - name: 'og:type'
       value: website
