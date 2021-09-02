@@ -63,7 +63,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
-  title: Max Treuer
+  title: Ich kaufe Eigentumswohnungen
   description: Immobilienankauf
   extra:
     - name: 'og:type'
