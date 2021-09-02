@@ -31,10 +31,9 @@ sections:
           Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
           Provision.
       - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
+          Zustand.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
