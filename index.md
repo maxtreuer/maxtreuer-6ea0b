@@ -27,9 +27,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: Vertrauensvoll
-        content: >
-          Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
-          Provision.
+        content: |
+          Sie haften nicht - ich kaufe wie gesehen.
       - title: Unkompliziert
         content: >
           Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
