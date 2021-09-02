@@ -26,7 +26,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/Treuer Logo (3).png"
     },
     "footer": {
         "has_social": true,
