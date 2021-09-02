@@ -4,7 +4,7 @@ subtitle: Groß-Gerau
 date: '2021-01-29'
 thumb_image_alt: Brunecker Straße Groß-Gerau
 image: images/brunecker2.jpg
-image_alt: Brunecker Straße Groß-Gerau
+image_alt: Brunecker Straße
 seo:
   title: Project Title 3
   description: This is the project 3 description
