@@ -34,7 +34,6 @@ sections:
 
           Sie haften nicht - ich kaufe wie gesehen.
         actions: []
-        image: images/Handshake.png
       - title: Unkompliziert
         content: >
           Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
