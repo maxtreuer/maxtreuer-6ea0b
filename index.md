@@ -34,8 +34,7 @@ sections:
 
           Sie haften nicht - ich kaufe wie gesehen.
         actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
