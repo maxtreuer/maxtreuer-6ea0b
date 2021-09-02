@@ -41,10 +41,6 @@ sections:
 
 
           Sie müssen keinerlei Unterlage bereithalten oder organisieren.
-      - title: Service Title
-        content: >
-          Ich übernehme das bestehenden Mietverhältnis - ihr Mieter bleibt
-          wohnen.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
