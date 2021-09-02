@@ -64,7 +64,9 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Ich kaufe Eigentumswohnungen
-  description: Immobilienankauf von Eigentumswohnungen i
+  description: >-
+    Immobilienankauf von Eigentumswohnungen im südhessischen Landkreis
+    Groß-Gerau
   extra:
     - name: 'og:type'
       value: website
