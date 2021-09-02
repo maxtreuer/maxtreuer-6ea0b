@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Ich kaufe Ihre Eigentumswohnung
-    subtitle: Im Kreis Groß-Gerau und Umgebung
+    subtitle: Im Landkreis Groß-Gerau und Umgebung
     col_number: two
     is_numbered: true
     grid_items:
