@@ -26,7 +26,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Vertrauensvoll
         content: >
           Sie bezahlen keinen teuren Makler - ich kaufe direkt von ihnen, ohne
           Provision.
