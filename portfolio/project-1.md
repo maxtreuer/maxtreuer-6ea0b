@@ -2,7 +2,7 @@
 title: Neugasse
 date: '2019-01-29'
 thumb_image: images/neugasse.jpg
-thumb_image_alt: Neugasse Riedstadt
+thumb_image_alt: Neugasse
 image: images/friendly-basil.jpg
 seo:
   title: Neugasse
