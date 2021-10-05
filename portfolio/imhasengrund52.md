@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: images/Screenshot_20210522_005911.jpg
 ---
 ## Lorem ipsum
 
