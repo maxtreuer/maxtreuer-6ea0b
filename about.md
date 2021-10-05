@@ -30,20 +30,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Der private Vermieter ist für den Deutschen Wohnungsmarkt unerlässlich. Als Alternative zu Staat, Genossenschaften und Konzernen bietet er Mietern die Möglichkeit auf Augenhöhe zu kommunizieren und individuelle Lebensumstände stärker zu berücksichtigen. 
+> Der private Vermieter ist für den Deutschen Wohnungsmarkt unerlässlich. Als Alternative zu Staat, Genossenschaften und Konzernen bietet er Mietern die Möglichkeit auf Augenhöhe zu kommunizieren und individuelle Lebensumstände stärker zu berücksichtigen.
+>
 
 
-> *„Die Altersvorsorge der Zukunft braucht mehr als eine schöne Webseite“
-> **Jens Jennissen***
-
-
-
-Auch in zinslosen Zeiten muss die private Altersvorsorge zielgerichtet aufgebaut werden. 
-
-Nichts eignet sich hierfür besser als kapitalgedeckte Sachwerte, welche über die Jahre gepflegt und entwickelt werden.
 
 Hiervon bin ich überzeugt und möchte meinen Teil hierzu beitragen.
 
-
-
-*Vielen Dank für das Lesen!*
+*Vielen Dank!*
