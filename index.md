@@ -12,13 +12,6 @@ sections:
       - url: /contact
         style: button
         label: Zum Ankaufsprofil
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Referenzen
-    projects_number: 4
-    view_all_label: Alle Anzeigen
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: Ich kaufe Ihre Eigentumswohnung
@@ -41,6 +34,13 @@ sections:
 
 
           Sie müssen keinerlei Unterlage bereithalten oder organisieren.
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Referenzen
+    projects_number: 4
+    view_all_label: Alle Anzeigen
+    view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
     title: Empfehlungen
