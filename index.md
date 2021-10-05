@@ -38,7 +38,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Referenzen
-    projects_number: 4
+    projects_number: 8
     view_all_label: Alle Anzeigen
     view_all_url: portfolio
   - section_id: testimonials
