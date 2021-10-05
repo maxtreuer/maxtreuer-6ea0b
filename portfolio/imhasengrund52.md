@@ -2,7 +2,6 @@
 title: Im Hasengrund
 subtitle: Rüsselsheim
 date: '2021-05-31'
-image_alt: lorem-ipsum
 seo:
   title: ''
   description: ''
