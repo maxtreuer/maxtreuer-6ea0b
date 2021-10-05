@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: project
 thumb_image: images/Screenshot_20210522_005911.jpg
+image: images/Screenshot_20210522_005911-e5a9a817.jpg
 ---
 ## Lorem ipsum
 
