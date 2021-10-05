@@ -13,9 +13,3 @@ layout: project
 thumb_image: images/IMG_20211005_092554.jpg
 image: images/IMG_20211005_090458.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
