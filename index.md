@@ -71,7 +71,9 @@ seo:
       value: Ich kaufe Eigentumswohnungen
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Immobilienankauf von Eigentumswohnungen im südhessischen Landkreis
+        Groß-Gerau
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
