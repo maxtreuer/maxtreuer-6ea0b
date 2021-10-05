@@ -30,7 +30,7 @@
         "logo_img": "images/Treuer Logo (3).png"
     },
     "footer": {
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Facebook",
