@@ -84,7 +84,9 @@ seo:
     - name: 'twitter:title'
       value: Ich kaufe Eigentumswohnungen
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Immobilienankauf von Eigentumswohnungen im südhessischen Landkreis
+        Groß-Gerau
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
