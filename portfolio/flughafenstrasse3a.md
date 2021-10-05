@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: images/IMG_20211005_092554.jpg
 ---
 ## Lorem ipsum
 
