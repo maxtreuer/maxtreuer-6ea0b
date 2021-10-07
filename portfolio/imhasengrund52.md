@@ -1,6 +1,5 @@
 ---
 title: Rüsselsheim
-subtitle: Rüsselsheim
 date: '2021-05-31'
 seo:
   title: ''
