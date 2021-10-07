@@ -31,6 +31,5 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: Riedstadt
 image_alt: Neugasse
 ---
