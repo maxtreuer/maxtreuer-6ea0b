@@ -2,7 +2,6 @@
 title: Groß-Gerau
 date: '2019-05-08'
 thumb_image: images/brunecker.jpg
-image_alt: Brunecker Straße Groß-Gerau
 seo:
   title: Brunecker Straße
   description: Groß-Gerau
