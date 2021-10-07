@@ -7,5 +7,6 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: images/Screenshot_20211007_134739.jpg
 ---
 ##
