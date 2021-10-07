@@ -12,6 +12,7 @@ sections:
       - url: /contact
         style: button
         label: Zum Ankaufsprofil
+        new_window: true
   - section_id: services
     type: section_grid
     title: Ich kaufe Ihre Eigentumswohnung
