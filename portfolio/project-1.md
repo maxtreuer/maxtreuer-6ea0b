@@ -29,5 +29,4 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-image_alt: Neugasse
 ---
