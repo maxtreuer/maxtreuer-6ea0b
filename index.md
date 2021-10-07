@@ -83,8 +83,5 @@ seo:
       value: >-
         Immobilienankauf von Eigentumswohnungen im südhessischen Landkreis
         Groß-Gerau
-    - name: 'twitter:image'
-      value: images/exto_preview.png
-      relativeUrl: true
 layout: advanced
 ---
