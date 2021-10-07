@@ -1,7 +1,6 @@
 ---
 title: Groß-Gerau
 date: '2021-01-29'
-thumb_image_alt: Brunecker Straße
 seo:
   title: Project Title 3
   description: This is the project 3 description
