@@ -30,5 +30,4 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: project
-image: images/DSC01394-968dca15.jpeg
 ---
