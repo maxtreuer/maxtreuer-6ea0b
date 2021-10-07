@@ -7,5 +7,4 @@ seo:
   robots: []
   extra: []
 layout: project
-image: images/Screenshot_20210522_005911-e5a9a817.jpg
 ---
