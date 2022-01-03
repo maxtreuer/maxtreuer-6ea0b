@@ -43,7 +43,7 @@ sections:
           - lorem-ipsum
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: Objektadresse
         label: Objektadresse
         default_value: lorem-ipsum
         options: []
