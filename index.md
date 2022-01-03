@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ich kaufe Eigentumswohnungen
+      value: Treuer Wohnen
       keyName: property
     - name: 'og:description'
       value: >-
