@@ -24,9 +24,9 @@ sections:
         content: |
           Kein langwieriger und öffentlicher Verkaufsprozess.
 
-          Diskret und schnell.
-
           Sie haften nicht - wir kaufen wie gesehen.
+
+          Hohe Diskretion.
         actions: []
       - title: Unkompliziert
         content: >
