@@ -53,6 +53,12 @@ sections:
           Ich bin damit einverstanden, dass meine übermittelten Daten zu
           Kontaktaufnahme gespeichert werden dürfen.
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Nachricht versenden
 seo:
   title: Contact
