@@ -26,7 +26,7 @@ sections:
           schnell.
 
 
-          Sie haften nicht - ich kaufe wie gesehen.
+          Sie haften nicht - wir kaufen wie gesehen.
         actions: []
       - title: Unkompliziert
         content: >
