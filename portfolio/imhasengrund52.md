@@ -8,4 +8,5 @@ seo:
   extra: []
 layout: project
 thumb_image: images/Screenshot_20211007_134902.jpg
+subtitle: 'Appartement '
 ---
