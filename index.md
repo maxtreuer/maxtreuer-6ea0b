@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Immobilienankauf
     content: |
-      Sie verkaufen oder vermitteln Immobilien?
-      Ich freue mich auf Ihr Angebot.
+      Immobilie zu verkaufen?
+      Wir freuen uns auf Ihr Angebot.
     actions:
       - url: /contact
         style: button
