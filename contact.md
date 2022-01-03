@@ -37,7 +37,7 @@ sections:
         label: Immobilie
         default_value: Bitte auswählen
         options:
-          - ein/-mehrfamilienhaus
+          - Ein/-mehrfamilienhaus
           - Eigentumswohnung
           - Grundstück
           - Sonstiges
