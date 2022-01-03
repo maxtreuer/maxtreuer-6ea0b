@@ -34,7 +34,7 @@ sections:
         type: form_field
       - input_type: select
         name: subject
-        label: Betreff
+        label: Immobilie
         default_value: Bitte auswählen
         options:
           - Angebot
