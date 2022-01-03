@@ -40,7 +40,7 @@ sections:
           - Haus
           - Eigentumswohnung
           - Grundstück
-          - lorem-ipsum
+          - null
         is_required: true
       - input_type: text
         name: Objektadresse
