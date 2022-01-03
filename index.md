@@ -15,7 +15,7 @@ sections:
         new_window: false
   - section_id: services
     type: section_grid
-    title: Ich kaufe Ihre Eigentumswohnung
+    title: Wir kaufen Ihre Eigentumswohnung
     subtitle: Im Landkreis Groß-Gerau und Umgebung
     col_number: two
     is_numbered: true
