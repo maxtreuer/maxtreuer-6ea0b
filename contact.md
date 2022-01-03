@@ -33,7 +33,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: select
-        name: subject
+        name: Objekt
         label: Immobilie
         default_value: Bitte auswählen
         options:
