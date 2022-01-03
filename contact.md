@@ -39,7 +39,7 @@ sections:
         options:
           - Haus
           - Eigentumswohnung
-          - Sonstiges
+          - Grundstück
         is_required: true
       - input_type: textarea
         name: message
