@@ -1,5 +1,5 @@
 ---
-title: Rüsselsheim
+title: Eigentumswohnung Rüsselsheim
 date: '2021-05-31'
 seo:
   title: ''
