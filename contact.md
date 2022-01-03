@@ -46,8 +46,7 @@ sections:
         name: Objektadresse
         label: Objektadresse
         default_value: lorem-ipsum
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
       - input_type: textarea
         name: message
