@@ -30,7 +30,7 @@ sections:
         actions: []
       - title: Unkompliziert
         content: >
-          Sie müssen nicht renovieren - ich kaufe die Wohnung im heutigen
+          Sie müssen nicht renovieren - wir kaufen die Wohnung im heutigen
           Zustand.
 
 
