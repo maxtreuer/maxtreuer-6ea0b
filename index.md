@@ -21,10 +21,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: Vertrauensvoll
-        content: >
-          Kein langwieriger und öffentlicher Verkaufsprozess -diskret und
-          schnell.
+        content: |
+          Kein langwieriger und öffentlicher Verkaufsprozess.
 
+          Diskret und schnell.
 
           Sie haften nicht - wir kaufen wie gesehen.
         actions: []
