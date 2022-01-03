@@ -60,7 +60,7 @@ sections:
         avatar_alt: Deegan Wallace's photo
         content: Content
 seo:
-  title: Ich kaufe Eigentumswohnungen
+  title: Treuer Wohnen
   description: >-
     Immobilienankauf von Eigentumswohnungen im südhessischen Landkreis
     Groß-Gerau
