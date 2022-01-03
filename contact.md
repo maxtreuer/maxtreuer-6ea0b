@@ -45,7 +45,7 @@ sections:
       - input_type: text
         name: Objektadresse
         label: Objektadresse
-        default_value: lorem-ipsum
+        default_value: Genaue Objekta
         options: []
         is_required: false
       - input_type: textarea
