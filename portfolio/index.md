@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: 
+title: Aktuelle Objekte
+subtitle: null
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: 
+  description: null
   extra:
     - name: 'og:type'
       value: website
