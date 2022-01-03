@@ -38,7 +38,7 @@ sections:
         default_value: Bitte auswählen
         options:
           - Haus
-          - Anfrage
+          - Eigentumswohnung
           - Sonstiges
         is_required: true
       - input_type: textarea
