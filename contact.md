@@ -37,7 +37,7 @@ sections:
         label: Immobilie
         default_value: Bitte auswählen
         options:
-          - Angebot
+          - Eigen
           - Anfrage
           - Sonstiges
         is_required: true
